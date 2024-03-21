@@ -1,3 +1,7 @@
+R255-1 Imitation Learning Project
+
+The notebooks with codes and outputs of experiments can be found in designated folders. The results are displayed in the table below:
+
 | Environments   | Trajectories | Expert         | GAIL-PPO       | GAIL-TRPO      | GAIL-3Layer    | GAIL-ReLU      | BC-GAIL-1 Traj | BC-GAIL-10 Traj | BC             | AIRL           |
 |----------------|--------------|----------------|----------------|----------------|----------------|----------------|----------------|-----------------|----------------|----------------|
 | Reacher-V4     | 1            | -5.00+1.68     | -12.96+4.49    | -23.07+15.67   | -14.20+3.84    | -97.13+2.01    | -11.31+4.71    | -12.71+3.26     | -5.96+2.63     | -10.04+4.35    |
