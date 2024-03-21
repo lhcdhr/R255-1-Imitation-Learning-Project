@@ -1,3 +1,4 @@
+$$
 \begin{table}[]
 \begin{tabular}{llllllllll}
 Environment    & Trajectories & Expert & GAIL-PPO & GAIL-TRPO & GAIL-3Layer & GAIL-ReLU & BC-GAIL & BC & AIRL \\
@@ -12,3 +13,4 @@ HalfCheetah-V1 & 1            &        &          &           &             &   
                & 10           &        &          &           &             &           &         &    &     
 \end{tabular}
 \end{table}
+$$
